@@ -1,2 +1,2 @@
-# eclipseProjects
-repository for all eclipse projects
+# GeetsaiManpowerConsultancy
+repository for geetsai manpower consultancy
